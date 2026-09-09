@@ -1,4 +1,10 @@
-## Hi there 👋
+## Olá! Eu sou o Diego Bulhões de Assis
+
+<div> 
+  <a href="https://instagram.com/_diegobulhoes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+ 	<a href = "mailto:contatorafaballerini@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/diego-bulhoes-de-assis-189b86146" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
 
 <!--
 **dbulhoes91/dbulhoes91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
