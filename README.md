@@ -1,4 +1,4 @@
-## 👋 Olá, eu sou Diego Bulhões de Assis
+##  Olá, eu sou Diego Bulhões de Assis
 
 Tenho 35 anos, nascido em Osasco - SP, mas criado em Pernambuco desde os 10 meses de idade — com muito orgulho, carrego o sangue nordestino em minhas veias.
 
